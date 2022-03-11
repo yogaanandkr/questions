@@ -9,16 +9,7 @@ questions.forEach(function(question){
     })
 })
 
-
-
-
-
-
-
-
-
-
-
+                    
 
 // const btns = document.querySelectorAll('.question-btn')
 
